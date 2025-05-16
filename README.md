@@ -1,4 +1,4 @@
-![Deatiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgdx159)
+![Deatiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=zgdx159) \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgdx159)
 
 <!--
